@@ -14,9 +14,9 @@ interface WrappedNativeInterface {
 }
 
 /**
- * @title Cream's CWrappedNative Contract
+ * @title Zeno's CWrappedNative Contract
  * @notice CTokens which wrap the native token
- * @author Cream
+ * @author Zeno
  */
 contract CWrappedNative is CToken, CWrappedNativeInterface {
     /**

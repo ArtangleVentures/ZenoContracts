@@ -5,9 +5,9 @@ import "./ERC3156FlashLenderInterface.sol";
 import "./ERC3156FlashBorrowerInterface.sol";
 
 /**
- * @title Cream's CCollateralCapErc20 Contract
+ * @title Zeno's CCollateralCapErc20 Contract
  * @notice CTokens which wrap an EIP-20 underlying with collateral cap
- * @author Cream
+ * @author Zeno
  */
 contract CCollateralCapErc20 is CToken, CCollateralCapErc20Interface {
     /**

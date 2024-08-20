@@ -3,9 +3,9 @@ pragma solidity ^0.5.16;
 import "./CCollateralCapErc20CheckRepay.sol";
 
 /**
- * @title Cream's CCollateralCapErc20CheckRepayDelegate Contract
+ * @title Zeno's CCollateralCapErc20CheckRepayDelegate Contract
  * @notice CTokens which wrap an EIP-20 underlying and are delegated to
- * @author Cream
+ * @author Zeno
  */
 contract CCollateralCapErc20CheckRepayDelegate is CCollateralCapErc20CheckRepay {
     /**

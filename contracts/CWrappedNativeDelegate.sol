@@ -3,9 +3,9 @@ pragma solidity ^0.5.16;
 import "./CWrappedNative.sol";
 
 /**
- * @title Cream's CWrappedNativeDelegate Contract
+ * @title Zeno's CWrappedNativeDelegate Contract
  * @notice CTokens which wrap an EIP-20 underlying and are delegated to
- * @author Cream
+ * @author Zeno
  */
 contract CWrappedNativeDelegate is CWrappedNative {
     /**
