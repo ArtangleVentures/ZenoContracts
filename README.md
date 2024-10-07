@@ -2,7 +2,7 @@
 
 These are the smart contracts our platform uses in our protocol. Enjoy! 🎉
 
-## Movement EVM Contracts
+## Movement EVM deployed Contracts
 
 - **Unitroller**: `0x098dE63643E3Cbf739f6AF331cc03e9db1C68b71`
 - **Comptroller Implementation**: `0x3495760b41Dae08DdcB8C53Ee880Bff9e463eCEd`
@@ -29,7 +29,7 @@ These are the smart contracts our platform uses in our protocol. Enjoy! 🎉
 - **iWBTC**: `0xDB4DbB8b7576f759D44079218165bdf1b4F00Be9`
 - **iMOVE**: `0xBb130559F8fB7334004Bd59EC5650B69e2aE0825`
 
-## Apechain Contracts
+## Apechain deployed Contracts
 
 - **Unitroller**: `0x0d286e2Cfb7d354111C6c76AAaDbD6E64198667c`
 - **Comptroller Implementation**: `0x136a8ca77cC10E797B0115D73D64c76cC88235f7`
@@ -52,3 +52,28 @@ These are the smart contracts our platform uses in our protocol. Enjoy! 🎉
 
 ### underlying token address for Iwape
 - **Wrapped Ape Deployed**: `0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B`
+
+## Hemi deployed Contracts
+
+- **Unitroller** `0x832DF5952F2F2E81c0571BA9bFC323e29E65F454`
+- **Comptroller_Implementation** `0x098dE63643E3Cbf739f6AF331cc03e9db1C68b71`
+- **PriceOracleV2** `0x3495760b41Dae08DdcB8C53Ee880Bff9e463eCEd`
+- **PriceOracleProxyZen** `0xc38DB616aD3060f1C103b24688E25db5160Bba8b`
+- **CTokenAdmin** `0x34b097B133bF3Fe3B7daD0d65E8f18DD5bf1a57B`
+- **CompoundLens** `0x0d286e2Cfb7d354111C6c76AAaDbD6E64198667c`
+- **MajorIRM** `0x46e8A9D21314FD49f34EEC6ac3C2Ae69749e8154`
+- **StableIRM** `0x7a9EA414a00DFB98f3828883b2F80ba981FBEB4B`
+- **StableIRMRisky** `0xe0451413e9f6fa1199d98141ce55321bb4824f51`
+- **GovIRM** `0x8c991D9c99cc0Fe038b80c8716733fedC0156029`
+- **ReserveManager** `0xDe79226d2ff5F00C565De71B8e5b22330E182aE8`
+- **StableIRM2** `0x02E1c1756Cd86b7C70aB3E475Bf479273166a42E`
+- **CWrappedNativeDelegate** `0x0b616EDa09582B0F5CF4D3bed091FDD253204961`
+- **CCollateralCapErc20Delegate** `0x3C4b8015FaEDCd590B703eF8D8A13faa22104593`
+- **Maximillion** `0x02Efdf3764e700e3Fa9CE60Fdb930a5A749fc86c`
+- **multicall** `0xE2532259394d53A9Bf9a3531D5cF1c3671B0e2EB`
+
+### iTokens
+- **iWETH** `0x6AdCE62C45FfB245D03854300e5B1bb48ec7E1a3`
+- **iDAI** `0x91C990e8503dda30Ebcdb58430964339884B9eC1`
+- **iUSDC** `0x29ee8e194f2E0EDaDe0D1CF0Ee817A6DdDce54c2`
+- **iTUSD** `0xb468B919034EDf3A64929C5E32bA0c20C059FEFB`
